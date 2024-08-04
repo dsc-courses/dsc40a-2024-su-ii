@@ -37,7 +37,7 @@ section {
 
 # More Combinatorics Examples
 
-#### DSC 40A, Spring 2024
+#### DSC 40A, Summer 2024
 
 ---
 

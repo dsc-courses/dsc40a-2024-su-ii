@@ -1,7 +1,7 @@
 ---
 name: Jack Determan
 role: Tutor
-pronouns: he/him
+pronouns: he/him/his
 email: jodeterman@ucsd.edu
 photo: assets/staff-images/jack-determan-square.jpg
 description: 2nd year, Mathematics + Computer Science, ERC

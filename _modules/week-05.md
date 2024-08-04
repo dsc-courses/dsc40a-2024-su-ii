@@ -1,45 +1,72 @@
 ---
-title: "Week 5 – Multiple Linear Regression, Feature Engineering<br><small>📘 Read <a href='resources/notes/notes_chapter_1.pdf#page=16'>Note 1, Pages 16-17</a>.</small>"
+title: "Week 5 – Conditional Independence, Naïve Bayes, and Classification<br><small>📘 Read this note on <a href='conditional-independence'>conditional independence</a>.</small>"
 weekNumber: 5
 days:
-  - date: "2024-04-29"
+  - date: "2024-09-02"
     events:
-      - name: DISC 4
-        type: disc
-        title: Groupwork 4
-        problems: resources/groupworks/gw04.pdf
-        template: https://www.overleaf.com/read/fnhwmtrtrmhj#cbd4a6
-  - date: "2024-04-30"
+  - date: "2024-09-03"
     events:
-      - name: LEC 9
+      - name: LEC 16
         type: lecture
-        title: Multiple Linear Regression
-        blank: resources/lectures/lec09/lec09-blank.pdf
-        code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec09/lec09-code.ipynb
-        # url: resources/lectures/lec03/lec03.html
-        filled: resources/lectures/lec09/lec09-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/9
-  - date: "2024-05-02"
-    events:
-      - name: LEC 10
-        type: lecture
-        title: Feature Engineering, Gradient Descent
-        blank: resources/lectures/lec10/lec10-blank.pdf
-        code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec10/lec10-code.ipynb
-        animations: resources/lectures/lec10
-        filled: resources/lectures/lec10/lec10-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/10
-      - name: HW 4
+        title: Independence and Conditional Independence (<b>no live lecture!</b>)
+        # blank: resources/lectures/lec16/lec16-blank.pdf
+        # filled: resources/lectures/lec16/lec16-filled.pdf
+        # podcast: https://www.youtube.com/playlist?list=PLDNbnocpJUhbejVsvWvZSbuMj4B0kLpol
+      - name: HW 7
         type: hw
-        title: <b>Homework 4</b>
-        problems: resources/homeworks/hw04.pdf
-        template: https://www.overleaf.com/read/qfndvkfjchqm#11ae69
-  - date: "2024-05--3"
+        title: <b>Homework 7</b>
+        # problems: resources/homeworks/hw07.pdf
+        # template: https://www.overleaf.com/read/mpbkhfgkcqsv#906d88
+  - date: "2024-09-04"
     events:
-      - name: REV
+      - name: LEC 17
         type: lecture
-        title: Midterm Review Session (Center Hall 109, 2-5PM)
-        blank: resources/review/mt-review-blank.pdf
-        filled: resources/review/mt-review-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_a00/21
+        title: Naïve Bayes
+        # blank: resources/lectures/lec17/lec17-blank.pdf
+        # filled: resources/lectures/lec17/lec17-filled.pdf
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/18
+      - name: DISC 8
+        type: disc
+        title: "Groupwork 5"
+        # problems: resources/groupworks/gw07.pdf
+        # template: https://www.overleaf.com/read/gdmdnrmtxjjz#eec52f
+      - name: DISC 9
+        type: disc
+        title: Groupwork 7
+        # problems: resources/groupworks/gw07-week10.pdf
+        # template: https://www.overleaf.com/read/pbjnpvmkxvsv#3f1bb6
+  - date: "2024-09-05"
+    events:
+      - name: LEC 18
+        type: lecture
+        title: More Naïve Bayes, Review
+        # blank: resources/lectures/lec18/lec18-blank.pdf
+        # filled: resources/lectures/lec18/lec18-filled.pdf
+        # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec18/lec18-code.ipynb
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_a00/19
+      # - name: REV 1
+      #   type: review
+      #   title: "Review: ERM and Linear Algebra (Center Hall 216, 5-7PM)"
+      #   blank: resources/review/mock-final-1.pdf
+      #   filled: resources/review/mock-final-1-filled.pdf
+      #   podcast: https://youtu.be/A-zYPTvuiT4?si=HJVInqIIi-znxON_
+      # - name: REV 2
+      #   type: review
+      #   title: "Review: Gradient Descent and Probability (Center Hall 216, 5-7PM)"
+      #   blank: resources/review/mock-final-2.pdf
+      #   filled: https://dsc-courses.github.io/dsc40a-2023-sp/resources/exams/mockmidterm2sol.pdf
+      #   podcast: https://youtu.be/f9vNrmryuuQ
+      - name: HW 8
+        type: hw
+        title: <b>Homework 8</b>
+        # problems: resources/homeworks/hw08.pdf
+        # template: https://www.overleaf.com/read/zbckpqqphmgw#4d8853
+  - date: "2024-09-06"
+    events:
+      - name: SUR
+        type: survey
+        title: <b>End-of-Quarter Survey</b> + <b><a href="https://academicaffairs.ucsd.edu/Modules/Evals/">SETs</a> (due 8AM)</b>
+      - name: EXAM
+        type: exam
+        title: <b>Final Exam (8-11AM, in person, Center 212+214)</b>
 ---

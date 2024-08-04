@@ -42,7 +42,7 @@ section {
 
 # More Simple Linear Regression
 
-#### DSC 40A, Spring 2024
+#### DSC 40A, Summer 2024
 
 ---
 
@@ -56,7 +56,7 @@ section {
 
 - If you asked for an alternate Final Exam and/or have OSD accommodations, you should've received an email from me a few days ago with the details of your Final Exam arrangement.
 
-- You can access the Markdown source code for lectures [here](https://github.com/dsc-courses/dsc40a-2024-sp/tree/gh-pages/resources/lectures) (potentially useful if you want to write your own notes).
+- You can access the Markdown source code for lectures [here](https://github.com/dsc-courses/dsc40a-2024-su-ii/tree/gh-pages/resources/lectures) (potentially useful if you want to write your own notes).
 
 ---
 
@@ -275,7 +275,7 @@ $$r = \frac{1}{n} \sum_{i = 1}^n \left( \frac{x_i - \bar{x}}{\sigma_x} \right) \
 
 ---
 
-Let's test these new formulas out in code! Follow along [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec05/lec05-code.ipynb).
+Let's test these new formulas out in code! Follow along [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec05/lec05-code.ipynb).
 
 <br>
 

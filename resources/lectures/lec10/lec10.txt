@@ -37,7 +37,7 @@ section {
 
 # Feature Engineering, Gradient Descent
 
-#### DSC 40A, Spring 2024
+#### DSC 40A, Summer 2024
 
 ---
 
@@ -195,7 +195,7 @@ $$H(x) = w_0 e^{w_1 x}$$
 
 <br><br><br><br><br>
 
-**Once again, let's try it out! Follow along in [this notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec10/lec10-code.ipynb)**.
+**Once again, let's try it out! Follow along in [this notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec10/lec10-code.ipynb)**.
 
 ---
 
@@ -453,7 +453,7 @@ $$t_{i + 1} = t_i - \alpha \frac{df}{dt}(t_i)$$
 
 <center>
 
-<big>See [dsc40a.com/resources/lectures/lec10](https://dsc40a.com/resources/lectures/lec10) for animated examples of gradient descent, and see [this notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec10/lec10-code.ipynb) for the associated code!</big>
+<big>See [dsc40a.com/resources/lectures/lec10](https://dsc40a.com/resources/lectures/lec10) for animated examples of gradient descent, and see [this notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec10/lec10-code.ipynb) for the associated code!</big>
 
 </center>
 

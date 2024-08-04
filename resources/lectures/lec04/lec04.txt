@@ -37,7 +37,7 @@ section {
 
 # Simple Linear Regression
 
-#### DSC 40A, Spring 2024
+#### DSC 40A, Summer 2024
 
 ---
 
@@ -448,7 +448,7 @@ $$
 
 ---
 
-Let's test these formulas out in code! Follow along [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec04/lec04-code.ipynb).
+Let's test these formulas out in code! Follow along [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec04/lec04-code.ipynb).
 
 <br>
 

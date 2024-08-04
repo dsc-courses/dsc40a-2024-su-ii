@@ -37,7 +37,7 @@ section {
 
 # Regression and Linear Algebra
 
-#### DSC 40A, Spring 2024
+#### DSC 40A, Summer 2024
 
 ---
 
@@ -454,7 +454,7 @@ $$R_\text{sq}(\vec{w}) = \frac{1}{n}  \lVert {\color{orange} \vec{y}} - {\color{
 
 ### Roadmap
 
-- To give us a break from math, we'll switch to a notebook, [linked here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec08/lec08-code.ipynb), showing that both formulas – that is, (1) the formulas for $w_1^*$ and $w_0^*$ we found using calculus, and (2) the formula for $\vec{w}^*$ we found using linear algebra – give the same results.
+- To give us a break from math, we'll switch to a notebook, [linked here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec08/lec08-code.ipynb), showing that both formulas – that is, (1) the formulas for $w_1^*$ and $w_0^*$ we found using calculus, and (2) the formula for $\vec{w}^*$ we found using linear algebra – give the same results.
 - Then, we'll use our new linear algebraic formulation of regression to incorporate **multiple features** in our prediction process.
 
 ---
@@ -599,7 +599,7 @@ $$\vec{w}^* = ({\color{#007aff}{X^TX}})^{-1} {\color{#007aff}{X^T}}\color{orange
 
 ### Roadmap
 
-- To wrap up today's lecture, we'll find the optimal parameter vector $\vec{w}^*$ for our new two-feature model in code. We'll switch back to our notebook, [linked here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec08/lec08-code.ipynb).
+- To wrap up today's lecture, we'll find the optimal parameter vector $\vec{w}^*$ for our new two-feature model in code. We'll switch back to our notebook, [linked here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec08/lec08-code.ipynb).
 
 - Next class, we'll present a more general framing of the multiple linear regression model, that uses $d$ features instead of just two.
 

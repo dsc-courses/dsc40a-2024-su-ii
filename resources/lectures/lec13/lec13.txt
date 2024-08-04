@@ -37,7 +37,7 @@ section {
 
 # Combinatorics
 
-#### DSC 40A, Spring 2024
+#### DSC 40A, Summer 2024
 
 ---
 
@@ -138,7 +138,7 @@ In a set of dominoes, each tile has two sides with a number of dots on each side
 
 - To verify your answer to a probability problem, you can often run a simulation!
 
-- [This notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec13/lec13-code.ipynb) has a simulation of the domino problem.
+- [This notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec13/lec13-code.ipynb) has a simulation of the domino problem.
 
 <center>
 

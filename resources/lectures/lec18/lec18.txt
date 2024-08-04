@@ -36,7 +36,7 @@ section {
 
 # More Naïve Bayes, Review
 
-#### DSC 40A, Spring 2024
+#### DSC 40A, Summer 2024
 
 ---
 
@@ -296,7 +296,7 @@ $$\mathbb{P}(x^{(i)} = 1\text{ | spam}) \\\\ \approx \frac{(\text{\# spam contai
 
 That's all the new content we have!
 
-Let's now try out Naïve Bayes in code. Follow along [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec18/lec18-code.ipynb).
+Let's now try out Naïve Bayes in code. Follow along [here](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec18/lec18-code.ipynb).
 
 ---
 

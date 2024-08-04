@@ -1,12 +1,12 @@
 ---
 name: Zoe Ludena
 role: Tutor
-pronouns: She/Her/Hers
+pronouns: she/her
 email: zludena@ucsd.edu
-photo: assets/staff-images/zoe-ludena.jpg
-description: 3rd year, Data Science, Business Economics, Revelle
+photo: assets/staff-images/ludena-zoe.jpg
+description: 4th Year, Data Science, Revelle
 hometown: San Diego, CA
-askabout: Interview prep, my baking legacy, and my projects
+askabout: Baking, Singing, Roller Skating, Video Games, Hiking
 foodemoji: 🍪
-food: Wa Dining OKAN, Tony's Jacal, Yenchim Garden Restaurant
+food: Tony’s Jacal, Yenchim Garden Restaurant, Katana
 ---

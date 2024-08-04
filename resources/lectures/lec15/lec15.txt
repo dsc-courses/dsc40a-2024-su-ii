@@ -42,7 +42,7 @@ section {
 
 # Bayes' Theorem and Independence
 
-#### DSC 40A, Spring 2024
+#### DSC 40A, Summer 2024
 
 ---
 

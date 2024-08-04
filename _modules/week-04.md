@@ -1,38 +1,64 @@
 ---
-title: "Week 4 – Regression and Linear Algebra<br><small>📘 Read <a href='resources/notes/notes_chapter_2.pdf#page=10'>Note 2, Pages 10-19</a>.</small>"
+title: "Week 4 – Probability, Combinatorics, and Independence<br><small>📘 Read <a href='resources/#probability-roadmap'>Janine's probability roadmap</a> and <a href='http://stat88.org/textbook/content/intro.html'>Chapters 1 and 2 of this probability textbook</a>.</small>"
 weekNumber: 4
 days:
-  - date: "2024-04-22"
+  - date: "2024-08-26"
     events:
-      - name: DISC 3
-        type: disc
-        title: Groupwork 3
-        problems: resources/groupworks/gw03.pdf
-        template: https://www.overleaf.com/read/jrgfccrsytzq#eef2e5
-  - date: "2024-04-23"
-    events:
-      - name: LEC 7
+      - name: LEC 12
         type: lecture
-        title: Orthogonal Projections
-        blank: resources/lectures/lec07/lec07-blank.pdf
-        # url: resources/lectures/lec03/lec03.html
-        filled: resources/lectures/lec07/lec07-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/7
-  - date: "2024-04-25"
+        title: Foundations of Probability
+        # blank: resources/lectures/lec12/lec12-blank.pdf
+        # filled: resources/lectures/lec12/lec12-filled.pdf
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/13
+  - date: "2024-08-27"
     events:
-      - name: LEC 8
+      - name: LEC 13
         type: lecture
-        title: Regression and Linear Algebra
-        blank: resources/lectures/lec08/lec08-blank.pdf
-        code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec08/lec08-code.ipynb
-        # url: resources/lectures/lec03/lec03.html
-        filled: resources/lectures/lec08/lec08-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/8
-  - date: "2024-04-27"
-    events:
-      - name: HW 3
+        title: Combinatorics
+        # blank: resources/lectures/lec13/lec13-blank.pdf
+        # filled: resources/lectures/lec13/lec13-filled.pdf
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/14
+        # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec13/lec13-code.ipynb
+        videos: https://www.youtube.com/playlist?list=PLDNbnocpJUhaMR08k5YBu3AXsZxTcUWsy
+        # filled: resources/lectures/lec03/lec03-filled.html
+        # podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/3
+      - name: HW 5
         type: hw
-        title: <b>Homework 3 (note the later deadline!)</b>
-        problems: resources/homeworks/hw03.pdf
-        template: https://www.overleaf.com/read/jvcppyynngzj#1d92c5
+        title: <b>Homework 5</b>
+        # problems: resources/homeworks/hw05.pdf
+        # template: https://www.overleaf.com/read/bwwtthvhhnys#28bdf4
+  - date: "2024-08-28"
+    events:
+      - name: LEC 14
+        type: lecture
+        title: More Combinatorics Examples
+        # blank: resources/lectures/lec14/lec14-blank.pdf
+        # filled: resources/lectures/lec14/lec14-filled.pdf
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/15
+      - name: DISC 5
+        type: disc
+        title: Groupwork 5
+        # problems: resources/groupworks/gw05.pdf
+        # template: https://www.overleaf.com/read/zjxgsvjnsyjq#7c9823
+      - name: DISC 7
+        type: disc
+        title: Groupwork 6
+        # problems: resources/groupworks/gw06.pdf
+        # template: https://www.overleaf.com/read/mhbtsgqppdww#9f4211
+  - date: "2024-08-29"
+    events:
+      - name: LEC 15
+        type: lecture
+        title: Bayes' Theorem and Independence
+        # blank: resources/lectures/lec15/lec15-blank.pdf
+        # # url: resources/lectures/lec03/lec03.html
+        # filled: resources/lectures/lec15/lec15-filled.pdf
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/16
+  - date: "2024-08-30"
+    events:
+      - name: HW 6
+        type: hw
+        title: <b>Homework 6</b>
+        # problems: resources/homeworks/hw06.pdf
+        # template: https://www.overleaf.com/read/rbqyvfhwnqjj#fff6cf
 ---

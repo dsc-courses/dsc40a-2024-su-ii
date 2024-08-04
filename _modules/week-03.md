@@ -1,39 +1,52 @@
 ---
-title: "Week 3 – Linear Algebra Review<br><small>📘 Read <a href='resources/notes/notes_chapter_2.pdf#page=7'>Note 2, Pages 7-13</a> and take a look at the <a href='faqs'>Week 2 Lecture FAQs</a>.</small>"
+title: "Week 3 – Multiple Linear Regression, Feature Engineering<br><small>📘 Read <a href='resources/notes/notes_chapter_1.pdf#page=16'>Note 1, Pages 16-17</a>. Optionally, see <a href='https://sboyles.github.io/teaching/ce377k/convexity.pdf'>these notes on convexity</a>.</small>"
 weekNumber: 3
 days:
-  - date: "2024-04-15"
+  - date: "2024-08-19"
     events:
-      - name: DISC 2
-        type: disc
-        title: Groupwork 2
-        problems: resources/groupworks/gw02.pdf
-        template: https://www.overleaf.com/read/rsnqvvwqkzmx#fe5cf0
-  - date: "2024-04-16"
-    events:
-      - name: LEC 5
+      - name: LEC 9
         type: lecture
-        title: Simple Linear Regression, Continued
-        blank: resources/lectures/lec05/lec05-blank.pdf
-        filled: resources/lectures/lec05/lec05-filled.pdf
-        code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec05/lec05-code.ipynb
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/5
-
-        # url: resources/lectures/lec03/lec03.html
-        # filled: resources/lectures/lec03/lec03-filled.html
-        # podcast: https://podcast.ucsd.edu/watch/wi24/dsc80_a00/3
-  - date: "2024-04-18"
+        title: Multiple Linear Regression
+        blank: resources/lectures/lec09/lec09-blank.pdf
+        # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec09/lec09-code.ipynb
+        # # url: resources/lectures/lec03/lec03.html
+        # filled: resources/lectures/lec09/lec09-filled.pdf
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/9
+  - date: "2024-08-20"
     events:
-      - name: LEC 6
+      - name: LEC 10
         type: lecture
-        title: Dot Products and Projections
-        blank: resources/lectures/lec06/lec06-blank.pdf
-        # url: resources/lectures/lec03/lec03.html
-        filled: resources/lectures/lec06/lec06-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/6
-      - name: HW 2
+        title: Feature Engineering, Gradient Descent
+        blank: resources/lectures/lec10/lec10-blank.pdf
+        # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec10/lec10-code.ipynb
+        # animations: resources/lectures/lec10
+        # filled: resources/lectures/lec10/lec10-filled.pdf
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/10
+      - name: HW 4
         type: hw
-        title: <b>Homework 2</b>
-        problems: resources/homeworks/hw02.pdf
-        template: https://www.overleaf.com/read/ccvngthkfqqw#e3c6f9
+        title: <b>Homework 4</b>
+        # problems: resources/homeworks/hw04.pdf
+        # template: https://www.overleaf.com/read/qfndvkfjchqm#11ae69
+  - date: "2024-08-21"
+    events:
+      - name: LEC 11
+        type: lecture
+        title: Gradient Descent, Continued
+        # blank: resources/lectures/lec11/lec11-blank.pdf
+        # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec11/lec11-code.ipynb
+        # filled: resources/lectures/lec11/lec11-filled.pdf
+        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/12
+      - name: DISC 4
+        type: disc
+        title: Groupwork 4
+        # problems: resources/groupworks/gw04.pdf
+        # template: https://www.overleaf.com/read/fnhwmtrtrmhj#cbd4a6
+      - name: DISC 5
+        type: disc
+        title: Midterm Exam Review (no worksheet, no required attendance)
+  - date: "2024-08-22"
+    events:
+      - name: EXAM
+        type: exam
+        title: <b>Midterm Exam (in person, during assigned lecture)</b>
 ---
