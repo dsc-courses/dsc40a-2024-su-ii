@@ -11,7 +11,7 @@ days:
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec09/lec09-code.ipynb
         # # url: resources/lectures/lec03/lec03.html
         # filled: resources/lectures/lec09/lec09-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/9
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/9
   - date: "2024-08-20"
     events:
       - name: LEC 10
@@ -21,7 +21,7 @@ days:
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec10/lec10-code.ipynb
         # animations: resources/lectures/lec10
         # filled: resources/lectures/lec10/lec10-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/10
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/10
       - name: HW 4
         type: hw
         title: <b>Homework 4</b>
@@ -35,7 +35,7 @@ days:
         # blank: resources/lectures/lec11/lec11-blank.pdf
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec11/lec11-code.ipynb
         # filled: resources/lectures/lec11/lec11-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/12
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/12
       - name: DISC 4
         type: disc
         title: Groupwork 4

@@ -10,7 +10,7 @@ days:
         # blank: resources/lectures/lec05/lec05-blank.pdf
         # filled: resources/lectures/lec05/lec05-filled.pdf
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec05/lec05-code.ipynb
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/5
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/5
 
         # url: resources/lectures/lec03/lec03.html
         # filled: resources/lectures/lec03/lec03-filled.html
@@ -22,7 +22,7 @@ days:
         title: Dot Products and Projections
         # blank: resources/lectures/lec06/lec06-blank.pdf
         # filled: resources/lectures/lec06/lec06-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/6
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/6
       - name: HW 2
         type: hw
         title: <b>Homework 2</b>
@@ -36,7 +36,7 @@ days:
         # blank: resources/lectures/lec07/lec07-blank.pdf
         # # url: resources/lectures/lec03/lec03.html
         # filled: resources/lectures/lec07/lec07-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/7
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/7
       - name: DISC 2
         type: disc
         title: Groupwork 2
@@ -56,7 +56,7 @@ days:
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec08/lec08-code.ipynb
         # # url: resources/lectures/lec03/lec03.html
         # filled: resources/lectures/lec08/lec08-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/8
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/8
   - date: "2024-08-16"
     events:
       - name: HW 3

@@ -7,9 +7,9 @@ days:
       - name: LEC 1
         type: lecture
         title: Introduction to Modeling
-        # blank: resources/lectures/lec01/lec01-blank.pdf
+        blank: resources/lectures/lec01/lec01-blank.pdf
         # filled: resources/lectures/lec01/lec01-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/1
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/1
         reading:
       - name: SUR
         type: survey
@@ -22,7 +22,7 @@ days:
         title: Empirical Risk Minimization
         # blank: resources/lectures/lec02/lec02-blank.pdf
         # filled: resources/lectures/lec02/lec02-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/2
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/2
       - name: EX HW
         type: hw
         title: Example Homework (not due!)
@@ -36,7 +36,7 @@ days:
         title: Comparing Loss Functions
         # blank: resources/lectures/lec03/lec03-blank.pdf
         # filled: resources/lectures/lec03/lec03-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/3
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/3
       - name: DISC 1
         type: disc
         title: Groupwork 1
@@ -50,7 +50,7 @@ days:
         # blank: resources/lectures/lec04/lec04-blank.pdf
         # filled: resources/lectures/lec04/lec04-filled.pdf
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec04/lec04-code.ipynb
-        # podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/4
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/4
         faqs: faqs#week-2-loss-functions-center-and-spread-and-simple-linear-regression
   - date: "2024-08-09"
     events:
