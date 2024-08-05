@@ -68,5 +68,5 @@ days:
         title: <b>End-of-Quarter Survey</b> + <b><a href="https://academicaffairs.ucsd.edu/Modules/Evals/">SETs</a> (due 8AM)</b>
       - name: EXAM
         type: exam
-        title: <b>Final Exam (8-11AM, in person, Center 212+214)</b>
+        title: <b>Final Exam (11:30AM-2:30PM, in person, WLH 2208)</b>
 ---
