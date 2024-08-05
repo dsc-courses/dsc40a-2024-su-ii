@@ -106,10 +106,10 @@ To get help on assignments and concepts, course staff will be hosting several of
 
 To summarize, here's what a typical week will look like in the course (there may be some deviations from this due to holidays and exams; the most up-to-date deadlines will be on the course homepage):
 
-| Sunday | Monday                    | Tuesday | Wednesday  | Thursday | Friday                   | Saturday |
-| ------ | ------------------------- | ------- | ---------- | -------- | ------------------------ | -------- |
-|        | Lecture                   | Lecture | Lecture    | Lecture  |                          |          |
-|        | **Groupwork due 11:59PM** |         | Discussion |          | **Homework (sometimes) due 11:59PM** |          |
+| Sunday | Monday                    | Tuesday                  | Wednesday  | Thursday | Friday                   | Saturday |
+| ------ | ------------------------- | -------                  | ---------- | -------- | ------------------------ | -------- |
+|        | Lecture                   | Lecture                  | Lecture    | Lecture  |                          |          |
+|        | **Groupwork due 11:59PM** | **Homework due 11:59PM** | Discussion |          | **Homework due 11:59PM** |          |
 
 ---
 
