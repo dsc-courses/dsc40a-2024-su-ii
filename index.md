@@ -17,7 +17,7 @@ nav_order: 1
 
 {: .green }
 
-> Welcome to DSC 40A!
+> Welcome to DSC 40A! See you in class this week. To begin, fill out the (required) [Welcome Survey](https://forms.gle/qA5xnzXiNZc55nii6).
 
 {% for module in site.modules %}
 {{ module }}
