@@ -4,11 +4,13 @@ weekNumber: 5
 days:
   - date: "2024-09-02"
     events:
+      - name: Holiday
+        title: Labor Day — no class
   - date: "2024-09-03"
     events:
       - name: LEC 16
         type: lecture
-        title: Independence and Conditional Independence (<b>no live lecture!</b>)
+        title: Independence and Conditional Independence
         # blank: resources/lectures/lec16/lec16-blank.pdf
         # filled: resources/lectures/lec16/lec16-filled.pdf
         # podcast: https://www.youtube.com/playlist?list=PLDNbnocpJUhbejVsvWvZSbuMj4B0kLpol
