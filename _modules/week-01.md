@@ -9,7 +9,7 @@ days:
         title: Introduction to Modeling
         blank: resources/lectures/lec01/lec01-blank.pdf
         # filled: resources/lectures/lec01/lec01-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/1
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/1
         reading:
       - name: SUR
         type: survey
@@ -57,6 +57,6 @@ days:
       - name: HW 1
         type: hw
         title: <b>Homework 1</b>
-        # problems: resources/homeworks/hw01.pdf
+        problems: resources/homeworks/hw01.pdf
         # template: https://www.overleaf.com/read/jkbqbvktnckv#c53ba2
 ---
