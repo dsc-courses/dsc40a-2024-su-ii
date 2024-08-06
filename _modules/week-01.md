@@ -58,5 +58,5 @@ days:
         type: hw
         title: <b>Homework 1</b>
         problems: resources/homeworks/hw01.pdf
-        # template: https://www.overleaf.com/read/jkbqbvktnckv#c53ba2
+        template: https://www.overleaf.com/read/nhhqyfgqzvjm#4c8804
 ---
