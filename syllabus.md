@@ -72,7 +72,7 @@ You can attend any discussion section, but if space fills up, priority will be g
 
 If you have specific people in your section that you want to work with, you may work together, otherwise, the tutors in discussion will pair you with other students.
 
-Your worksheet is due to Gradescope on **Mondays at 11:59PM**, starting in Week 2. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
+Your worksheet is due to Gradescope on **Wednesdays at 11:59PM**. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
 
 ### Homeworks
 
@@ -106,10 +106,11 @@ To get help on assignments and concepts, course staff will be hosting several of
 
 To summarize, here's what a typical week will look like in the course (there may be some deviations from this due to holidays and exams; the most up-to-date deadlines will be on the course homepage):
 
-| Sunday | Monday                    | Tuesday                  | Wednesday  | Thursday | Friday                   | Saturday |
-| ------ | ------------------------- | -------                  | ---------- | -------- | ------------------------ | -------- |
-|        | Lecture                   | Lecture                  | Lecture    | Lecture  |                          |          |
-|        | **Groupwork due 11:59PM** | **Homework due 11:59PM** | Discussion |          | **Homework due 11:59PM** |          |
+| Monday                    | Tuesday                  | Wednesday                 | Thursday | Friday                   |
+| ------------------------- | -------                  | ----------                | -------- | ------------------------ |
+| Lecture                   | Lecture                  | Lecture                   | Lecture  |                          |
+|                           |                          | Discussion                |          |                          |
+|                           | **Homework due 11:59PM** | **Groupwork due 11:59PM** |          | **Homework due 11:59PM** |
 
 ---
 

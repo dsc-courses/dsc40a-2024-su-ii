@@ -22,7 +22,7 @@ days:
         title: Empirical Risk Minimization
         blank: resources/lectures/lec02/lec02-blank.pdf
         # filled: resources/lectures/lec02/lec02-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/2
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/2
       - name: EX HW
         type: hw
         title: Example Homework (not due!)
