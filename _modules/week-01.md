@@ -20,7 +20,7 @@ days:
       - name: LEC 2
         type: lecture
         title: Empirical Risk Minimization
-        # blank: resources/lectures/lec02/lec02-blank.pdf
+        blank: resources/lectures/lec02/lec02-blank.pdf
         # filled: resources/lectures/lec02/lec02-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/2
       - name: EX HW
