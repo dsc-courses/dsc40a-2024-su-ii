@@ -40,13 +40,13 @@ days:
       - name: DISC 1
         type: disc
         title: Groupwork 1
-        # problems: resources/groupworks/gw01.pdf
+        problems: resources/groupworks/gw01.pdf
+        template: https://www.overleaf.com/read/ykccbmgjhwyx#95e470
   - date: "2024-08-08"
     events:
       - name: LEC 4
         type: lecture
         title: Simple Linear Regression
-        # url: resources/lectures/lec03/lec03.html
         # blank: resources/lectures/lec04/lec04-blank.pdf
         # filled: resources/lectures/lec04/lec04-filled.pdf
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec04/lec04-code.ipynb
