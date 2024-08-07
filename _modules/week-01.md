@@ -21,7 +21,7 @@ days:
         type: lecture
         title: Empirical Risk Minimization
         blank: resources/lectures/lec02/lec02-blank.pdf
-        # filled: resources/lectures/lec02/lec02-filled.pdf
+        filled: resources/lectures/lec02/lec02-filled.pdf
         podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/2
       - name: EX HW
         type: hw
@@ -34,7 +34,7 @@ days:
       - name: LEC 3
         type: lecture
         title: Comparing Loss Functions
-        # blank: resources/lectures/lec03/lec03-blank.pdf
+        blank: resources/lectures/lec03/lec03-blank.pdf
         # filled: resources/lectures/lec03/lec03-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/3
       - name: DISC 1
