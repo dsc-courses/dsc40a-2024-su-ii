@@ -26,8 +26,8 @@ days:
       - name: HW 2
         type: hw
         title: <b>Homework 2</b>
-        # problems: resources/homeworks/hw02.pdf
-        # template: https://www.overleaf.com/read/ccvngthkfqqw#e3c6f9
+        problems: resources/homeworks/hw02.pdf
+        template: https://www.overleaf.com/read/fdhqkknkcbsr#deb161
   - date: "2024-08-14"
     events:
       - name: LEC 7
