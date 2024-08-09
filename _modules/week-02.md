@@ -62,6 +62,6 @@ days:
       - name: HW 3
         type: hw
         title: <b>Homework 3</b>
-        # problems: resources/homeworks/hw03.pdf
-        # template: https://www.overleaf.com/read/jvcppyynngzj#1d92c5
+        problems: resources/homeworks/hw03.pdf
+        template: https://www.overleaf.com/read/nwkxjtxgrbyk#5e1c9c
 ---
