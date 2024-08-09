@@ -48,9 +48,9 @@ days:
         type: lecture
         title: Simple Linear Regression
         blank: resources/lectures/lec04/lec04-blank.pdf
-        # filled: resources/lectures/lec04/lec04-filled.pdf
+        filled: resources/lectures/lec04/lec04-filled.pdf
         code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec04/lec04-code.ipynb
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/4
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/4
         faqs: faqs#week-2-loss-functions-center-and-spread-and-simple-linear-regression
   - date: "2024-08-09"
     events:
