@@ -3,7 +3,7 @@ name: Zoe Ludena
 role: Tutor
 pronouns: she/her
 email: zludena@ucsd.edu
-photo: assets/staff-images/ludena-zoe.jpg
+photo: assets/staff-images/zoe-ludena.jpg
 description: 4th Year, Data Science, Revelle
 hometown: San Diego, CA
 askabout: Baking, Singing, Roller Skating, Video Games, Hiking

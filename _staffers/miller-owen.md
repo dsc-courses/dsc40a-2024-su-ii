@@ -5,8 +5,8 @@ pronouns: he/him/his
 email: omiller@ucsd.edu
 photo: assets/staff-images/owen-miller.png
 description: 3rd year data science + probability & stats major
-hometown: 3rd year data science + probability & stats major
-askabout: Moss Beach -> Salt Lake City -> Barcelona -> San Diego
+hometown: Moss Beach -> Salt Lake City -> Barcelona -> San Diego
+askabout: Cooking, books
 foodemoji: 🍲
 food: Piacere Mio, Flavors of East Africa, Lanzhou Noodlelicious
 ---
