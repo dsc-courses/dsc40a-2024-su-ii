@@ -13,7 +13,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-2-linear-algebra-and-regression){: .btn } [Assignment Solutions](https://edstem.org/us/courses/61623/discussion/5141768){: .btn .btn-purple }
+[Jump to the current week](#week-2-linear-algebra-and-regression-br-small-read-a-href-resources-notes-notes-chapter-2-pdf-page-7-note-2-pages-7-13-a-the-a-href-faqs-week-2-lecture-faqs-a-and-a-href-resources-notes-notes-chapter-2-pdf-page-10-note-2-pages-10-19-a-small){: .btn } [Assignment Solutions](https://edstem.org/us/courses/61623/discussion/5141768){: .btn .btn-purple }
 
 <!-- {: .green }
 
