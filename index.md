@@ -13,11 +13,11 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-1–Modeling-Loss-Functions-and-Simple-Linear-Regression){: .btn } [Assignment Solutions](https://edstem.org/us/courses/61623/discussion/5141768){: .btn .btn-purple }
+[Jump to the current week](#week-2-linear-algebra-and-regression){: .btn } [Assignment Solutions](https://edstem.org/us/courses/61623/discussion/5141768){: .btn .btn-purple }
 
-{: .green }
+<!-- {: .green }
 
-> Welcome to DSC 40A! See you in class this week. To begin, fill out the (required) [Welcome Survey](https://forms.gle/qA5xnzXiNZc55nii6).
+> Welcome to DSC 40A! See you in class this week. To begin, fill out the (required) [Welcome Survey](https://forms.gle/qA5xnzXiNZc55nii6). -->
 
 {% for module in site.modules %}
 {{ module }}
