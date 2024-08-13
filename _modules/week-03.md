@@ -7,7 +7,7 @@ days:
       - name: LEC 9
         type: lecture
         title: Multiple Linear Regression
-        blank: resources/lectures/lec09/lec09-blank.pdf
+        # blank: resources/lectures/lec09/lec09-blank.pdf
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec09/lec09-code.ipynb
         # # url: resources/lectures/lec03/lec03.html
         # filled: resources/lectures/lec09/lec09-filled.pdf
@@ -17,7 +17,7 @@ days:
       - name: LEC 10
         type: lecture
         title: Feature Engineering, Gradient Descent
-        blank: resources/lectures/lec10/lec10-blank.pdf
+        # blank: resources/lectures/lec10/lec10-blank.pdf
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec10/lec10-code.ipynb
         # animations: resources/lectures/lec10
         # filled: resources/lectures/lec10/lec10-filled.pdf
