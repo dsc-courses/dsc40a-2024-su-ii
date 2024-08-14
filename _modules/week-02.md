@@ -36,13 +36,8 @@ days:
       - name: DISC 2
         type: disc
         title: Groupwork 2
-        # problems: resources/groupworks/gw02.pdf
-        # template: https://www.overleaf.com/read/rsnqvvwqkzmx#fe5cf0
-      - name: DISC 3
-        type: disc
-        title: Groupwork 3
-        # problems: resources/groupworks/gw03.pdf
-        # template: https://www.overleaf.com/read/jrgfccrsytzq#eef2e5
+        problems: resources/groupworks/gw02.pdf
+        template: https://www.overleaf.com/read/hrhtwcvddcvv#6ac7af
   - date: "2024-08-15"
     events:
       - name: LEC 8
