@@ -25,8 +25,8 @@ days:
       - name: HW 4
         type: hw
         title: <b>Homework 4</b>
-        # problems: resources/homeworks/hw04.pdf
-        # template: https://www.overleaf.com/read/qfndvkfjchqm#11ae69
+        problems: resources/homeworks/hw04.pdf
+        template: https://www.overleaf.com/read/pdtwdxfbbbnj#1fbf2e
   - date: "2024-08-21"
     events:
       - name: LEC 11
