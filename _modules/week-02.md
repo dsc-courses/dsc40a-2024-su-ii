@@ -29,8 +29,7 @@ days:
       - name: LEC 7
         type: lecture
         title: Orthogonal Projections
-        # blank: resources/lectures/lec07/lec07-blank.pdf
-        # # url: resources/lectures/lec03/lec03.html
+        blank: resources/lectures/lec07/lec07-blank.pdf
         # filled: resources/lectures/lec07/lec07-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/7
       - name: DISC 2
@@ -45,7 +44,6 @@ days:
         title: Regression and Linear Algebra
         # blank: resources/lectures/lec08/lec08-blank.pdf
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec08/lec08-code.ipynb
-        # # url: resources/lectures/lec03/lec03.html
         # filled: resources/lectures/lec08/lec08-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/8
   - date: "2024-08-16"
