@@ -44,8 +44,8 @@ days:
         title: Regression and Linear Algebra
         blank: resources/lectures/lec08/lec08-blank.pdf
         code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec08/lec08-code.ipynb
-        # filled: resources/lectures/lec08/lec08-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/8
+        filled: resources/lectures/lec08/lec08-filled.pdf
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/8
   - date: "2024-08-16"
     events:
       - name: HW 3
