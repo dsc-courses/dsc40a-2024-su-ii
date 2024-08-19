@@ -7,9 +7,8 @@ days:
       - name: LEC 9
         type: lecture
         title: Multiple Linear Regression
-        # blank: resources/lectures/lec09/lec09-blank.pdf
-        # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec09/lec09-code.ipynb
-        # # url: resources/lectures/lec03/lec03.html
+        blank: resources/lectures/lec09/lec09-blank.pdf
+        code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec09/lec09-code.ipynb
         # filled: resources/lectures/lec09/lec09-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/9
   - date: "2024-08-20"
