@@ -35,14 +35,14 @@ days:
         code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec11/lec11-code.ipynb
         # filled: resources/lectures/lec11/lec11-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/12
-      - name: DISC 4
+      - name: DISC 3
         type: disc
-        title: Groupwork 4
-        # problems: resources/groupworks/gw04.pdf
-        # template: https://www.overleaf.com/read/fnhwmtrtrmhj#cbd4a6
-      - name: DISC 5
+        title: Groupwork 3
+        problems: resources/groupworks/gw03.pdf
+        template: https://www.overleaf.com/read/frrhyzqdtfxj#2420e2
+      - name: DISC 3
         type: disc
-        title: Midterm Exam Review (no worksheet, no required attendance)
+        title: Midterm Exam Review
   - date: "2024-08-22"
     events:
       - name: EXAM
