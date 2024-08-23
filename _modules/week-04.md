@@ -59,6 +59,6 @@ days:
       - name: HW 6
         type: hw
         title: <b>Homework 6</b>
-        # problems: resources/homeworks/hw06.pdf
-        # template: https://www.overleaf.com/read/rbqyvfhwnqjj#fff6cf
+        problems: resources/homeworks/hw06.pdf
+        template: https://www.overleaf.com/read/htqhfdtbpdtj#82f828
 ---
