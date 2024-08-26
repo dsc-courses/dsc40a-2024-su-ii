@@ -8,8 +8,8 @@ days:
         type: lecture
         title: Foundations of Probability
         blank: resources/lectures/lec12/lec12-blank.pdf
-        # filled: resources/lectures/lec12/lec12-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/13
+        filled: resources/lectures/lec12/lec12-filled.pdf
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/13
   - date: "2024-08-27"
     events:
       - name: LEC 13
