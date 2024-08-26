@@ -33,8 +33,8 @@ days:
         title: Gradient Descent, Continued
         blank: resources/lectures/lec11/lec11-blank.pdf
         code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec11/lec11-code.ipynb
-        # filled: resources/lectures/lec11/lec11-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/12
+        filled: resources/lectures/lec11/lec11-filled.pdf
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/11
       - name: DISC 3
         type: disc
         title: Groupwork 3
@@ -47,5 +47,5 @@ days:
     events:
       - name: EXAM
         type: exam
-        title: <b>Midterm Exam (in person, during assigned lecture)</b>
+        title: <b>Midterm Exam (in person, during lecture)</b>
 ---
