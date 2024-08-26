@@ -17,8 +17,8 @@ days:
       - name: HW 7
         type: hw
         title: <b>Homework 7</b>
-        # problems: resources/homeworks/hw07.pdf
-        # template: https://www.overleaf.com/read/mpbkhfgkcqsv#906d88
+        problems: resources/homeworks/hw07.pdf
+        template: https://www.overleaf.com/read/tzyrjpsnnncd#ebe831
   - date: "2024-09-04"
     events:
       - name: LEC 17
