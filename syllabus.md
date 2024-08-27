@@ -119,7 +119,7 @@ To summarize, here's what a typical week will look like in the course (there may
 There will be one Midterm Exam and one Final Exam, both held in person.
 
 - **Midterm Exam**: Thursday, August 22nd, in person, during lecture slot in Warren Lecture Hall 2208.
-- **Final Exam**: Friday, September 6th, 11:30AM-2:30PM, in Warren Lecture Hall 2208.
+- **Final Exam**: Friday, September 6th, 11:30AM-2:30PM, in Warren Lecture Hall 2113.
 
 The Midterm Exam will be worth 20% of your overall course grade and will only cover content from Lectures 1-9. The Final Exam will be worth 30% of your overall course grade and will be cumulative.
 
