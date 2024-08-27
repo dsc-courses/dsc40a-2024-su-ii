@@ -16,8 +16,8 @@ days:
         type: lecture
         title: Combinatorics
         blank: resources/lectures/lec13/lec13-blank.pdf
-        # filled: resources/lectures/lec13/lec13-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/14
+        filled: resources/lectures/lec13/lec13-filled.pdf
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/14
         code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec13/lec13-code.ipynb
         videos: https://www.youtube.com/playlist?list=PLDNbnocpJUhaMR08k5YBu3AXsZxTcUWsy
       - name: HW 5
