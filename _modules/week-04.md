@@ -35,14 +35,9 @@ days:
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/15
       - name: DISC 5
         type: disc
-        title: Groupwork 5
-        # problems: resources/groupworks/gw05.pdf
-        # template: https://www.overleaf.com/read/zjxgsvjnsyjq#7c9823
-      - name: DISC 7
-        type: disc
-        title: Groupwork 6
-        # problems: resources/groupworks/gw06.pdf
-        # template: https://www.overleaf.com/read/mhbtsgqppdww#9f4211
+        title: Groupwork 4
+        problems: resources/groupworks/gw04.pdf
+        template: https://www.overleaf.com/read/jyjvkrzdgkyh#a8f999
   - date: "2024-08-29"
     events:
       - name: LEC 15
