@@ -30,7 +30,7 @@ days:
       - name: LEC 14
         type: lecture
         title: More Combinatorics Examples
-        # blank: resources/lectures/lec14/lec14-blank.pdf
+        blank: resources/lectures/lec14/lec14-blank.pdf
         # filled: resources/lectures/lec14/lec14-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/15
       - name: DISC 5
