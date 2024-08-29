@@ -43,8 +43,7 @@ days:
       - name: LEC 15
         type: lecture
         title: Bayes' Theorem and Independence
-        # blank: resources/lectures/lec15/lec15-blank.pdf
-        # # url: resources/lectures/lec03/lec03.html
+        blank: resources/lectures/lec15/lec15-blank.pdf
         # filled: resources/lectures/lec15/lec15-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/16
   - date: "2024-08-30"
