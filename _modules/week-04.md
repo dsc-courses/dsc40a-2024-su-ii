@@ -31,8 +31,8 @@ days:
         type: lecture
         title: More Combinatorics Examples
         blank: resources/lectures/lec14/lec14-blank.pdf
-        # filled: resources/lectures/lec14/lec14-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/15
+        filled: resources/lectures/lec14/lec14-filled.pdf
+        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_a00/15
       - name: DISC 5
         type: disc
         title: Groupwork 4
