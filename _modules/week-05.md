@@ -61,8 +61,8 @@ days:
       - name: HW 8
         type: hw
         title: <b>Homework 8</b>
-        # problems: resources/homeworks/hw08.pdf
-        # template: https://www.overleaf.com/read/zbckpqqphmgw#4d8853
+        problems: resources/homeworks/hw08.pdf
+        template: https://www.overleaf.com/read/mdqhqyvxqwxf#98c1e4
   - date: "2024-09-06"
     events:
       - name: SUR
