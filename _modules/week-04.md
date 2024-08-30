@@ -44,8 +44,8 @@ days:
         type: lecture
         title: Bayes' Theorem and Independence
         blank: resources/lectures/lec15/lec15-blank.pdf
-        # filled: resources/lectures/lec15/lec15-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/16
+        filled: resources/lectures/lec15/lec15-filled.pdf
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/16
   - date: "2024-08-30"
     events:
       - name: HW 6
