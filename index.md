@@ -13,7 +13,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-4-probability-combinatorics-and-independence-br-small-read-a-href-resources-probability-roadmap-janine-s-probability-roadmap-a-and-a-href-http-stat88-org-textbook-content-intro-html-chapters-1-and-2-of-this-probability-textbook-a-small){: .btn } [Assignment Solutions](https://edstem.org/us/courses/61623/discussion/5141768){: .btn .btn-purple }
+[Jump to the current week](#week-5-conditional-independence-naïve-bayes-and-classification-br-small-read-this-note-on-a-href-conditional-independence-conditional-independence-a-small){: .btn } [Assignment Solutions](https://edstem.org/us/courses/61623/discussion/5141768){: .btn .btn-purple }
 
 <!-- {: .green }
 
