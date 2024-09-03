@@ -11,9 +11,9 @@ days:
       - name: LEC 16
         type: lecture
         title: Independence and Conditional Independence
-        # blank: resources/lectures/lec16/lec16-blank.pdf
+        blank: resources/lectures/lec16/lec16-blank.pdf
         # filled: resources/lectures/lec16/lec16-filled.pdf
-        # podcast: https://www.youtube.com/playlist?list=PLDNbnocpJUhbejVsvWvZSbuMj4B0kLpol
+        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/17
       - name: HW 7
         type: hw
         title: <b>Homework 7</b>
@@ -67,7 +67,7 @@ days:
     events:
       - name: SUR
         type: survey
-        title: <b>End-of-Quarter Survey</b> + <b><a href="https://academicaffairs.ucsd.edu/Modules/Evals/">SETs</a> (due 8AM)</b>
+        title: <b><a href="https://forms.gle/BPsx3jzuhv3pZwtJ6">End-of-Quarter Survey</a></b> + <b><a href="https://academicaffairs.ucsd.edu/Modules/Evals/">SETs</a> (due 8AM)</b>
       - name: EXAM
         type: exam
         title: <b>Final Exam (11:30AM-2:30PM, in person, WLH 2113)</b>
