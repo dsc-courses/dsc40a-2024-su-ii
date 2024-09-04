@@ -24,7 +24,7 @@ days:
       - name: LEC 17
         type: lecture
         title: Naïve Bayes
-        # blank: resources/lectures/lec17/lec17-blank.pdf
+        blank: resources/lectures/lec17/lec17-blank.pdf
         # filled: resources/lectures/lec17/lec17-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/18
       - name: DISC 8
