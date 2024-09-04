@@ -27,16 +27,11 @@ days:
         blank: resources/lectures/lec17/lec17-blank.pdf
         # filled: resources/lectures/lec17/lec17-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/18
-      - name: DISC 8
+      - name: DISC 5
         type: disc
         title: "Groupwork 5"
-        # problems: resources/groupworks/gw07.pdf
-        # template: https://www.overleaf.com/read/gdmdnrmtxjjz#eec52f
-      - name: DISC 9
-        type: disc
-        title: Groupwork 7
-        # problems: resources/groupworks/gw07-week10.pdf
-        # template: https://www.overleaf.com/read/pbjnpvmkxvsv#3f1bb6
+        problems: resources/groupworks/gw05.pdf
+        template: https://www.overleaf.com/read/xvrxkszkmdtd#b045ab
   - date: "2024-09-05"
     events:
       - name: LEC 18
