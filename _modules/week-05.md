@@ -12,8 +12,8 @@ days:
         type: lecture
         title: Independence and Conditional Independence
         blank: resources/lectures/lec16/lec16-blank.pdf
-        # filled: resources/lectures/lec16/lec16-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/17
+        filled: resources/lectures/lec16/lec16-filled.pdf
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/17
       - name: HW 7
         type: hw
         title: <b>Homework 7</b>
