@@ -25,15 +25,9 @@ days:
         type: lecture
         title: Naïve Bayes
         blank: resources/lectures/lec17/lec17-blank.pdf
-<<<<<<< Updated upstream
-        # filled: resources/lectures/lec17/lec17-filled.pdf
-        # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/18
-      - name: DISC 5
-=======
         filled: resources/lectures/lec17/lec17-filled.pdf
         podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/18
-      - name: DISC 8
->>>>>>> Stashed changes
+      - name: DISC 5
         type: disc
         title: "Groupwork 5"
         problems: resources/groupworks/gw05.pdf
