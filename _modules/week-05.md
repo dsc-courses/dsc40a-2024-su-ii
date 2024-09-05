@@ -25,9 +25,15 @@ days:
         type: lecture
         title: Naïve Bayes
         blank: resources/lectures/lec17/lec17-blank.pdf
+<<<<<<< Updated upstream
         # filled: resources/lectures/lec17/lec17-filled.pdf
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/18
       - name: DISC 5
+=======
+        filled: resources/lectures/lec17/lec17-filled.pdf
+        podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/18
+      - name: DISC 8
+>>>>>>> Stashed changes
         type: disc
         title: "Groupwork 5"
         problems: resources/groupworks/gw05.pdf
@@ -36,8 +42,8 @@ days:
     events:
       - name: LEC 18
         type: lecture
-        title: More Naïve Bayes, Review
-        # blank: resources/lectures/lec18/lec18-blank.pdf
+        title: Review and Final Thoughts
+        blank: resources/lectures/lec18/lec18-blank.pdf
         # filled: resources/lectures/lec18/lec18-filled.pdf
         # code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-su-ii&subPath=lectures/lec18/lec18-code.ipynb
         # podcast: https://podcast.ucsd.edu/watch/s224/dsc40a_a00/19
